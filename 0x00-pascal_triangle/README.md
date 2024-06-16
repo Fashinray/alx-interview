@@ -1,1 +1,0 @@
-scal_triangle.py
