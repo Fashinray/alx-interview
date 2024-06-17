@@ -4,7 +4,6 @@
 ![Redux-connectors-and-providers](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/31221f70d90911840d47.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220819%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220819T115107Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e218340c96f039ea6b57048330cb8f3eee5684a8ee7383abcacda95dfbf329e6)
 
 # Resources
-**Read or watch:**
 
 * [Redux CreateStore]()
 * [Redux Connect]()
@@ -340,4 +339,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
   }
 ]
 </code></pre>
-</details>
+</detail>
