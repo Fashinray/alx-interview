@@ -1,4 +1,4 @@
-# :book: 0x09. Island Perimeter.
+# :book: 0x09. Island Perimeter Project
 ## :page_with_curl: Topics Covered.
 Island Perimeter interview question.
 
